@@ -6,3 +6,5 @@
 
 # Les taches se sont faites à deux de façon équitable on a jugé meilleurs d'etre à deux sur chaque tache pour ne pas perdre de temps donc
 # il n'y a pas vraiment eu de répartition des taches. On a l'habitude de travailler à deux donc on a souvent fait comme ça et c'est pour cela qu'on a jugé meilleurs d etre à deux sur # chaque tache.
+
+On a essayer d'afficher des images mais sa ne marche pas malheureusement il y a un probleme avec le link je pense.
